@@ -13,15 +13,15 @@ Software engineering is a process of creating and maintaining software, like pro
 
 Traditional programming
 
-1. Focuses primarily on writing code to solve a specific problem or to perform a specific task. It's like writing a recipe for a single dish.
-2. Individual effort/ a small group
-3. May not followe a formal process, the focus is on getting the code to work
+   1. Focuses primarily on writing code to solve a specific problem or to perform a specific task. It's like writing a recipe for a single dish.
+   2. Individual effort/ a small group
+   3. May not followe a formal process, the focus is on getting the code to work
 
 Software engineering
 
-1. Is defined as designing, creating, testing and maintaining large complex software systems. It's like planning, building, and maintaining an entire restaurant
-2. Team effort that incluses Developers, Testers, Designers and Project managers
-3. A structured process with stages like requirements analysis, design, implementation, testing, and maintenance
+   1. Is defined as designing, creating, testing and maintaining large complex software systems. It's like planning, building, and maintaining an entire restaurant
+   2. Team effort that incluses Developers, Testers, Designers and Project managers
+   3. A structured process with stages like requirements analysis, design, implementation, testing, and maintenance
 
 Software Development Life Cycle (SDLC):
 
@@ -41,15 +41,15 @@ Compare and contrast the Agile and Waterfall models of software development. Wha
 
 Waterfall Model:
 
-1. Linear Process: Follows a strict sequence of stages (like planning, building, testing).
-2. Less Flexible: Difficult to make changes once a stage is completed.
-3. Longer Cycles: Takes more time to see a final product because you complete one big project in one go.
+   1. Linear Process: Follows a strict sequence of stages (like planning, building, testing).
+   2. Less Flexible: Difficult to make changes once a stage is completed.
+   3. Longer Cycles: Takes more time to see a final product because you complete one big project in one go.
 
 Agile Model:
 
-1. Iterative Process: Works in small cycles or “sprints”, delivering parts of the project in stages.
-2. More Flexible: Easy to make changes and adjustments after each cycle based on feedback.
-3. Shorter Cycles: You see results and improvements quickly because you work on smaller pieces at a time
+   1. Iterative Process: Works in small cycles or “sprints”, delivering parts of the project in stages.
+   2. More Flexible: Easy to make changes and adjustments after each cycle based on feedback.
+   3. Shorter Cycles: You see results and improvements quickly because you work on smaller pieces at a time
 
 The Waterfall model might be preferred in scenarios where:
 
@@ -146,7 +146,7 @@ Describe the different levels of software testing (unit testing, integration tes
 
 1. Unit Testing:
 Testing individual parts of the software (called units) to make sure they work correctly
-Purpose: To catch problems in the smallest parts of the software early. Imagine you’re baking a cake. Unit testing is like checking each ingredient (flour, sugar, eggs) individually to make sure they’re fresh and good before mixing them together.
+Purpose: To catch problems in the smallest parts of the software early. Imagine you’re baking a cake. Unit testing is like checking each ingredient (flour, sugar, eggs)       individually to make sure they’re fresh and good before mixing them together.
 
 2. Integration Testing:
 Testing how different units of the software work together. After mixing your cake ingredients, you bake the batter to see if all the ingredients work well together to make a good cake
@@ -219,28 +219,28 @@ Examples of Popular Version Control Systems
 
 1. Git:
 
-Features:
-Distributed VCS: Every developer has a complete copy of the project history.
-Branching and Merging: Easily create branches for new features and merge them back into the main project.
-Fast Performance: Handles large projects efficiently.
-Open Source: Free to use and widely supported.
-Example Use: Used by developers to manage code for apps, websites, and other software projects.
+   Features:
+   Distributed VCS: Every developer has a complete copy of the project history.
+   Branching and Merging: Easily create branches for new features and merge them back into the main project.
+   Fast Performance: Handles large projects efficiently.
+   Open Source: Free to use and widely supported.
+   Example Use: Used by developers to manage code for apps, websites, and other software projects.
 
 2. Subversion (SVN):
 
-Features:
-Centralized VCS: All changes are stored in a central repository.
-Atomic Commits: Changes are applied completely or not at all, preventing incomplete updates.
-Versioned Directories: Keeps track of changes to directories and file metadata.
-Example Use: Often used in larger organizations with a need for centralized control.
+   Features:
+   Centralized VCS: All changes are stored in a central repository.
+   Atomic Commits: Changes are applied completely or not at all, preventing incomplete updates.
+   Versioned Directories: Keeps track of changes to directories and file metadata.
+   Example Use: Often used in larger organizations with a need for centralized control.
 
 3. Mercurial:
 
-Features:
-Distributed VCS: Similar to Git, each developer has a complete copy of the project history.
-User-Friendly: Easier to use for beginners compared to Git.
-Scalability: Handles large projects well.
-Example Use: Used in both small and large projects, favored for its ease of use and scalability.
+   Features:
+   Distributed VCS: Similar to Git, each developer has a complete copy of the project history.
+   User-Friendly: Easier to use for beginners compared to Git.
+   Scalability: Handles large projects well.
+   Example Use: Used in both small and large projects, favored for its ease of use and scalability.
 
 Software Project Management:
 
@@ -281,33 +281,33 @@ Challenges Faced
 
 1. Scope Creep:
 
-What it is: When new features or requirements are added to the project after it has already started.
-Challenge: Can lead to delays and increased costs.
-Solution: Clearly define the project scope from the beginning and manage changes carefully.
+   What it is: When new features or requirements are added to the project after it has already started.
+   Challenge: Can lead to delays and increased costs.
+   Solution: Clearly define the project scope from the beginning and manage changes carefully.
 
 2. Time Management:
 
-What it is: Ensuring the project is completed on time.
-Challenge: Delays can occur due to unforeseen issues or underestimation of time needed.
-Solution: Create a realistic schedule and regularly review progress to make adjustments as needed.
+   What it is: Ensuring the project is completed on time.
+   Challenge: Delays can occur due to unforeseen issues or underestimation of time needed.
+   Solution: Create a realistic schedule and regularly review progress to make adjustments as needed.
 
 3. Budget Constraints:
 
-What it is: Keeping the project within the allocated budget.
-Challenge: Unexpected costs can arise, putting pressure on the budget.
-Solution: Monitor spending closely and adjust the budget as necessary, finding cost-effective solutions.
+   What it is: Keeping the project within the allocated budget.
+   Challenge: Unexpected costs can arise, putting pressure on the budget.
+   Solution: Monitor spending closely and adjust the budget as necessary, finding cost-effective solutions.
 
 4. Resource Management:
 
-What it is: Ensuring there are enough resources (people, equipment, tools) to complete the project.
-Challenge: Shortages or overuse of resources can cause delays.
-Solution: Plan resource allocation carefully and be flexible to reassign resources as needed.
+   What it is: Ensuring there are enough resources (people, equipment, tools) to complete the project.
+   Challenge: Shortages or overuse of resources can cause delays.
+   Solution: Plan resource allocation carefully and be flexible to reassign resources as needed.
 
 5. Stakeholder Expectations:
 
-What it is: Meeting the expectations of those who have an interest in the project (clients, management, team members).
-Challenge: Different stakeholders may have different or conflicting expectations.
-Solution: Regularly communicate with stakeholders to manage expectations and keep them aligned with the project's goals.
+   What it is: Meeting the expectations of those who have an interest in the project (clients, management, team members).
+   Challenge: Different stakeholders may have different or conflicting expectations.
+   Solution: Regularly communicate with stakeholders to manage expectations and keep them aligned with the project's goals.
 
 Software Maintenance:
 
@@ -319,53 +319,53 @@ Types of Maintenance Activities
 
 1. Corrective Maintenance:
 
-What it is: Fixing bugs and errors that were not caught before the software was released.
-Example: Addressing a software crash or a feature that doesn’t work as expected.
+   What it is: Fixing bugs and errors that were not caught before the software was released.
+   Example: Addressing a software crash or a feature that doesn’t work as expected.
 
 2. Adaptive Maintenance:
 
-What it is: Updating the software to work with new environments, such as new operating systems or hardware.
-Analogy: Like installing a new GPS system in your car to keep up with the latest navigation technology.
-Example: Modifying the software to be compatible with the latest version of Windows or iOS.
+   What it is: Updating the software to work with new environments, such as new operating systems or hardware.
+   Analogy: Like installing a new GPS system in your car to keep up with the latest navigation technology.
+   Example: Modifying the software to be compatible with the latest version of Windows or iOS.
 
 3. Perfective Maintenance:
 
-What it is: Enhancing and improving the software’s functionality based on user feedback.
-Analogy: Like adding a new stereo system or upgrading the air conditioning in your car.
-Example: Adding new features or improving the user interface based on user suggestions.
+   What it is: Enhancing and improving the software’s functionality based on user feedback.
+   Analogy: Like adding a new stereo system or upgrading the air conditioning in your car.
+   Example: Adding new features or improving the user interface based on user suggestions.
 
 4. Preventive Maintenance:
 
-What it is: Making changes to prevent future problems and improve the software’s longevity.
-Analogy: Like regular oil changes and tune-ups to keep your car running smoothly and prevent breakdowns.
-Example: Refactoring code to make it more efficient and less prone to errors in the future.
+   What it is: Making changes to prevent future problems and improve the software’s longevity.
+   Analogy: Like regular oil changes and tune-ups to keep your car running smoothly and prevent breakdowns.
+   Example: Refactoring code to make it more efficient and less prone to errors in the future.
 
 Importance of Maintenance in the Software Lifecycle
 
 1. Ensures Software Reliability:
 
-Why it matters: Maintenance keeps the software running smoothly and reliably.
-Benefit: Users can depend on the software to work correctly and consistently.
+   Why it matters: Maintenance keeps the software running smoothly and reliably.
+   Benefit: Users can depend on the software to work correctly and consistently.
 
 2. Adapts to Changes:
 
-Why it matters: Technology and user needs are constantly evolving.
-Benefit: Maintenance allows the software to stay up-to-date with new technologies and changing requirements.
+   Why it matters: Technology and user needs are constantly evolving.
+   Benefit: Maintenance allows the software to stay up-to-date with new technologies and changing requirements.
 
 3. Improves Performance:
 
-Why it matters: Regular maintenance can optimize and enhance the software’s performance.
-Benefit: Users experience faster, more efficient software.
+   Why it matters: Regular maintenance can optimize and enhance the software’s performance.
+   Benefit: Users experience faster, more efficient software.
 
 4. Extends Software Life:
 
-Why it matters: Maintenance helps prolong the useful life of the software.
-Benefit: Delays the need for expensive replacements and ensures the software remains valuable over time.
+   Why it matters: Maintenance helps prolong the useful life of the software.
+   Benefit: Delays the need for expensive replacements and ensures the software remains valuable over time.
 
 5. Increases User Satisfaction:
 
-Why it matters: Addressing user feedback and fixing issues leads to happier users.
-Benefit: Satisfied users are more likely to continue using the software and recommend it to others.
+   Why it matters: Addressing user feedback and fixing issues leads to happier users.
+   Benefit: Satisfied users are more likely to continue using the software and recommend it to others.
 
 
 Ethical Considerations in Software Engineering:
@@ -376,60 +376,60 @@ Common Ethical Issues
 
 1. Privacy Concerns:
 
-What it is: Handling users’ personal information responsibly.
-Example: Ensuring that users' data is not shared without their consent or used for unintended purposes.
+   What it is: Handling users’ personal information responsibly.
+   Example: Ensuring that users' data is not shared without their consent or used for unintended purposes.
 
 2. Security:
 
-What it is: Protecting software from unauthorized access and attacks.
-Example: Implementing strong security measures to prevent data breaches and protect sensitive information.
+   What it is: Protecting software from unauthorized access and attacks.
+   Example: Implementing strong security measures to prevent data breaches and protect sensitive information.
 
 3. Intellectual Property:
 
-What it is: Respecting the ownership of software and content created by others.
-Example: Not using or distributing software or code that you do not have permission to use.
+   What it is: Respecting the ownership of software and content created by others.
+   Example: Not using or distributing software or code that you do not have permission to use.
 
 4. Quality and Reliability:
 
-What it is: Ensuring the software is reliable and does not harm users.
-Example: Testing software thoroughly to avoid bugs that could cause harm or inconvenience to users.
+   What it is: Ensuring the software is reliable and does not harm users.
+   Example: Testing software thoroughly to avoid bugs that could cause harm or inconvenience to users.
 
 5. Fairness and Non-Discrimination:
 
-What it is: Creating software that is fair and does not discriminate against any group.
-Example: Avoiding biases in algorithms that could unfairly disadvantage certain groups of people.
+   What it is: Creating software that is fair and does not discriminate against any group.
+   Example: Avoiding biases in algorithms that could unfairly disadvantage certain groups of people.
 
 6. Ensuring Adherence to Ethical Standards
 
 7. Follow Professional Codes of Conduct:
 
-What it is: Adhering to established guidelines and principles set by professional organizations.
-Example: Following codes of conduct from organizations like the ACM (Association for Computing Machinery) or IEEE (Institute of Electrical and Electronics Engineers).
+   What it is: Adhering to established guidelines and principles set by professional organizations.
+   Example: Following codes of conduct from organizations like the ACM (Association for Computing Machinery) or IEEE (Institute of Electrical and Electronics Engineers).
 
 8. Transparency:
 
-What it is: Being open about how software works and how data is used.
-Example: Providing clear privacy policies and explanations of how algorithms make decisions.
+   What it is: Being open about how software works and how data is used.
+   Example: Providing clear privacy policies and explanations of how algorithms make decisions.
 
 9. Regular Training and Education:
 
-What it is: Keeping up-to-date with the latest ethical standards and practices.
-Example: Participating in ongoing education and training on ethical issues and emerging technologies.
+   What it is: Keeping up-to-date with the latest ethical standards and practices.
+   Example: Participating in ongoing education and training on ethical issues and emerging technologies.
 
 10. User-Centered Design:
 
-What it is: Designing software with the users’ best interests in mind.
-Example: Conducting user research and testing to ensure the software meets users’ needs without causing harm.
+   What it is: Designing software with the users’ best interests in mind.
+   Example: Conducting user research and testing to ensure the software meets users’ needs without causing harm.
 
 11. Accountability:
 
-What it is: Taking responsibility for the software and its impact.
-Example: Being prepared to address and fix issues that arise from the software, and accepting responsibility for mistakes.
+   What it is: Taking responsibility for the software and its impact.
+   Example: Being prepared to address and fix issues that arise from the software, and accepting responsibility for mistakes.
 
 12. Ethical Review Boards:
 
-What it is: Having a group of people review the ethical implications of software projects.
-Example: Establishing an ethics committee to review and provide guidance on projects and decisions.
+   What it is: Having a group of people review the ethical implications of software projects.
+   Example: Establishing an ethics committee to review and provide guidance on projects and decisions.
 
 Submission Guidelines:
 Your answers should be well-structured, concise, and to the point.
