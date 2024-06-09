@@ -197,10 +197,10 @@ A version control system (VCS) is like a library for your documents that keeps t
 
 Importance in Software Development
 
-1.Track Changes:
+1. Track Changes:
 
-  1.1 It keeps a record of every change made to the software, who made the change, and when it was made.
-  1.2 Helps understand the history of the project and why certain changes were made.
+   1.1 It keeps a record of every change made to the software, who made the change, and when it was made.
+   1.2 Helps understand the history of the project and why certain changes were made.
 
 2. Collaborate Effectively:
 
