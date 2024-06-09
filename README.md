@@ -11,7 +11,7 @@ Define Software Engineering:
 
 What is software engineering, and how does it differ from traditional programming?
 
-Software engineering is a process of creating and maintaining software, like programs on your phone(apps) and programs on your computer. Your start by designing(what will the software do), Creating (writing code), Testing(To observe if it actually does what it is intended to do) and Maintaining(fix issues and uprades after the software is built). It's a structured way to ensure the software is reliable, efficient, and meets the users' needs. Think of it like constructing a building. You start with a design (planning what the software will do), then you build it (writing the code), check to make sure everything works (testing), and fix any issues that come up after it's built (maintenance). It's a structured way to ensure the software is reliable, efficient, and meets the users' needs
+Software engineering is a process of creating and maintaining software, like programs on your phone (apps) and programs on your computer. Your start by designing (what will the software do), Creating (writing code), Testing(To observe if it actually does what it is intended to do) and Maintaining (fix issues and uprades after the software is built). It's a structured way to ensure the software is reliable, efficient, and meets the users' needs. Think of it like constructing a building. You start with a design (planning what the software will do), then you build it (writing the code), check to make sure everything works (testing), and fix any issues that come up after it's built (maintenance). It's a structured way to ensure the software is reliable, efficient, and meets the users' needs
 
 Traditional programming
 
